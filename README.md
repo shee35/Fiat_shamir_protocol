@@ -19,12 +19,11 @@ N is a public number which is very large made by multiplying p and q which are o
 ```
 
 ## Workflow of the Algorithm
-<!--  ![Workflow](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3u-qfYy5KvlzQQCSlBdUxcSXIcXYNVjT9EQ&usqp=CAU)
-  -->
-<!-- <p align="center">
-  <img width="1000" height="600" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3u-qfYy5KvlzQQCSlBdUxcSXIcXYNVjT9EQ&usqp=CAU">
+
+<p align="center">
+  <img width="1000" height="600" src="https://github.com/shee35/Fiat_shamir_protocol/blob/main/assets/workflow.png">
 </p>
- -->
+ 
 ## Run code
 ```
 git clone [REPO_URL]
